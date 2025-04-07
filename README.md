@@ -14,6 +14,7 @@ Cd /home
 
 ![image](https://github.com/user-attachments/assets/9da2cf4f-cebd-4ea5-b4ce-400fb64bbbe7)
 
+----------------------------------------------------
 Vi site.yml
 ---
 - name: Setup DevOps Tools (Git, Docker, Jenkins)
